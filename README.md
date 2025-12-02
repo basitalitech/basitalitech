@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**basitalitech/basitalitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Basit**, a software developer based in Pakistan.
 
-Here are some ideas to get you started:
+💻 **Tech Stack:** React, TypeScript, Tailwind CSS, Expo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Currently Working On:**  
+A clock + calendar management app to help WFH Muslims manage their time according to the Sunnah of Prophet (PBUH).
+
+### 🌱 Fun Facts
+- Currently battling perfectionism
+- Linux lover but stuck on Windows 🪟💔
+- **Hobbies:** anime, gaming (valo, wuwa, genshin, etc.)
