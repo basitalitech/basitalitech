@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Basit**, a software developer based in Pakistan.
+I'm **Basit**, a software developer and cybersecurity enthusiast based in Pakistan.
 
 💻 **Tech Stack:** React, TypeScript, Tailwind CSS, Expo
 
